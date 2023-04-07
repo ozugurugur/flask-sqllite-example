@@ -1,4 +1,9 @@
 --commands to execute
+
+
+
+
+
 docker build --tag python-flask-app .
 
 
